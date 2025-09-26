@@ -11,7 +11,8 @@ It includes key HR metrics such as employee distribution, departments, tenure, a
 
 🎥 **Preview:**  
 Check out the dashboard visuals in the video: [`Employee_dashboard_Visuals.mp4`](https://github.com/SatyamChauhan2005/Employee_Data/blob/main/Employee_dashboard_Visuals.mp4)
-
+## Raw Data 
+<a href="https://github.com/SatyamChauhan2005/Employee_Data/blob/main/Employee_rows200.csv">Show Raw Data</a>
 ## 📊 Features
 - Employee count and department breakdown
 - Gender and job role distribution
