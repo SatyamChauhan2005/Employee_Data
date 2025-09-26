@@ -2,7 +2,8 @@
 "Interactive dashboard built from an employee table for data analysis."
 ## Dashboard PNG
 <a href="https://github.com/SatyamChauhan2005/Employee_Data/blob/main/Employee%20Dashboard.png">View_Dashboard</a>
-![Employee Dashboard](./
+![Employee Dashboard](./Employee%20Dashboard.png)
+
 # Employee Data Dashboard (Power BI)
 
 This project showcases a Power BI dashboard built to analyze and visualize employee data.  
